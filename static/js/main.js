@@ -1,6 +1,10 @@
 /**
  * Created by fabiomadeira on 25/02/15.
  */
+
+// redirect
+window.location="onlylemi.github.io"; 
+
 // jQuery for page scrolling feature
 jQuery(document).ready(function(e) {
     e(".scroll").click(function(t) {
