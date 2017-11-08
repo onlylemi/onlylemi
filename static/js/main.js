@@ -3,7 +3,7 @@
  */
 
 // redirect
-window.location="onlylemi.github.io"; 
+window.location.href="onlylemi.github.io"; 
 
 // jQuery for page scrolling feature
 jQuery(document).ready(function(e) {
